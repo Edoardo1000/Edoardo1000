@@ -4,5 +4,5 @@
 Edoardo1000/Edoardo1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I'm a physics student at the University of Pisa and Scuola Normale Superiore.
+Hi, I'm a physics student at the University of Pisa.
 I'm mainly interested in physics-related projects and program sometimes for fun. Currently, I'm learning how Linux works.
